@@ -6,6 +6,7 @@ Docente:
 M.C. Israel Arjona Vizcaíno
 
 Equipo:
+
   Daphne Airam Corona Flores - 20400720
   
   Luis Angel Yael Cuevas Cruz- 21400664
