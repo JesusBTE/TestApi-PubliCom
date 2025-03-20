@@ -7,8 +7,11 @@ M.C. Israel Arjona Vizcaíno
 
 Equipo:
   Daphne Airam Corona Flores - 20400720
+  
   Luis Angel Yael Cuevas Cruz- 21400664
+  
   Jesús Ismael Betancourt Espericueta - 21400654
+  
   Yves Manuel Portugal De La Paz - 21400748
 
 Descripción
