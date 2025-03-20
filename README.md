@@ -1,8 +1,11 @@
 # TestApi-PubliCom
 
-Fecha de entrega: 20 de marzo del 2025
+Fecha de entrega:
+
+20 de marzo del 2025
 
 Docente:
+
 M.C. Israel Arjona Vizcaíno
 
 Equipo:
